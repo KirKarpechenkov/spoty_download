@@ -54,7 +54,7 @@
 ## Запуск
 ```bash
 git clone https://github.com/KirKarpechenkov/spoty_download
-cd spotify-library-manager
+cd spoty_download
 ```
 
 ```bash
