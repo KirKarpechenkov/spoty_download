@@ -6,8 +6,6 @@
 
 
 
-
-
 ## Возможности
   Импорт Spotify playlist / album / track URL
   Получение metadata через Spotify Web API
@@ -28,8 +26,6 @@
   Progress tracking
   Retry system
   История загрузок (SQLite)
-## Dark / Light Theme
-  Drag & Drop поддержка
 ## Технологии:
   Python 3.12+
   PySide6 / PyQt6
@@ -52,7 +48,8 @@
   
 ## Важно
 
-Проект использует только легальные и открытые источники аудио и не предназначен для обхода DRM или нарушения правил Spotify.
+Проект использует только легальные и открытые источники аудио и не предназначен для обхода DRM или нарушения правил Spotify. 
+Возможны ошибки при конвертации. Для этого необходимо скачать последнюю stable версию с сайта ffmpeg: https://ffmpeg.org/download.html#releases
 
 ## Запуск
 ```bash
@@ -85,4 +82,4 @@ SPOTIFY_CLIENT_SECRET=your_client_secret
   metadata management
   Статус проекта
 
-В активной разработке.
+В активной разработке. Разработан с помощью Command Center.
