@@ -82,4 +82,4 @@ SPOTIFY_CLIENT_SECRET=your_client_secret
   metadata management
   Статус проекта
 
-В активной разработке. Разработан с помощью Command Center.
+В активной разработке. Разработан с помощью Command Center - https://www.cc.dev/.
